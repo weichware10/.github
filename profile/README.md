@@ -1,8 +1,8 @@
 # Weichware 10
 `Softwareengineering Wintersemester 2021 / 2022`
 
-🛣️ [ROADMAP](https://github.com/orgs/weichware10/projects/3)  
-❔ [Dokumentation](https://weichware10.github.io/dokumente/)
+🛣️ [roadmap](https://github.com/orgs/weichware10/projects/3)  
+❔ [dokumentation](https://weichware10.github.io/dokumente/)
 
 ---
 
