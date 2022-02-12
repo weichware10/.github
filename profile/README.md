@@ -1,8 +1,10 @@
 # Weichware 10
 `Softwareengineering Wintersemester 2021 / 2022`
 
-🛣️ [roadmap](https://github.com/orgs/weichware10/projects/3)  
-🌐 [dokumentation](https://weichware10.github.io/dokumente/) (Benutzerhandbücher, Entwicklerhandbuch als Website)
+🛣️ [roadmap](https://github.com/orgs/weichware10/projects/3)
+
+🌐 [dokumentation](https://weichware10.github.io/dokumente/) (Benutzerhandbücher, Entwicklerhandbuch als Website)  
+![Website](https://img.shields.io/website?up_message=dokumentation&url=https%3A%2F%2Fweichware10.github.io%2Fdokumente%2F)
 
 📄 [dokumente](https://github.com/weichware10/dokumente) (CRC, Snowcards, UML...)
 
