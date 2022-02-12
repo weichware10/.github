@@ -2,7 +2,9 @@
 `Softwareengineering Wintersemester 2021 / 2022`
 
 🛣️ [roadmap](https://github.com/orgs/weichware10/projects/3)  
-❔ [dokumentation](https://weichware10.github.io/dokumente/)
+🌐 [dokumentation](https://weichware10.github.io/dokumente/) (Benutzerhandbücher, Entwicklerhandbuch als Website)
+
+📄 [dokumente](https://github.com/weichware10/dokumente) (CRC, Snowcards, UML...)
 
 ---
 
@@ -14,6 +16,5 @@
 ![Latest Release](https://img.shields.io/github/v/release/weichware10/util) [![GitHub issues](https://img.shields.io/github/issues-raw/weichware10/util)](https://github.com/weichware10/util/issues)  [![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/weichware10/util)](https://github.com/weichware10/util/pulls) 
 
 📆 [meilensteine](https://github.com/weichware10/meilensteine)  
-📄 [dokumente](https://github.com/weichware10/dokumente)
 
 📎 [repo-utils](https://github.com/weichware10/repo-utils)
